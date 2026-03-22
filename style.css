@@ -1,0 +1,36 @@
+/* Basic Reset */
+body {
+    font-family: Arial,sans-serif;
+    line height: 1.6;
+    margin:0;
+    background: lightgray;
+    color: black;
+}
+
+header {
+    background: black;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+section {
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width:800px;
+    background:white;
+    border-radius:8px;
+    box-shadow: 0 2px 5px gray;
+}
+
+h2 {
+    color: Blue;
+    border-bottom: 2px solid gray;
+    padding-bottom: 0.5rem;
+}
+
+.Project-card {
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 5px;
+}
